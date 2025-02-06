@@ -6,6 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Vicentesilv\\PracticaAuthPhp\\' => array($baseDir . '/src'),
     'Phroute\\Phroute\\' => array($vendorDir . '/phroute/phroute/src/Phroute'),
+    'App\\' => array($baseDir . '/src'),
 );

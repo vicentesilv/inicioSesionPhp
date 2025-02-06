@@ -3,7 +3,7 @@
     "description": "proyecto para reforzar conceptos en php",
     "autoload": {
         "psr-4": {
-            "Vicentesilv\\PracticaAuthPhp\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
